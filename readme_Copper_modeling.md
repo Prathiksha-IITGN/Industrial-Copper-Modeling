@@ -23,13 +23,6 @@ This will start the app and open it in your browser. From there, you can select 
 Contributing
 If you have any suggestions or improvements for this project, feel free to open an issue or submit a pull request.
 
-
-
-
-
-
-
-Regenerate response
  continuous variable ‘Selling_Price’ and an ML Classification model that predicts Status: WON or LOST. A streamlit page is created where each column value can be inserted, and the Selling_Price predicted value or Status(Won/Lost) will be displayed.
 
 Steps:
