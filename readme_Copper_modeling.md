@@ -1,6 +1,7 @@
 Copper Industry ML Models
 This repository contains Python code for building two machine learning models for the copper industry:
 
+
 A regression model that predicts the selling price of copper based on various features such as quantity, thickness, width, etc.
 A classification model that predicts whether a lead will result in a successful sale or not, based on features such as customer, country, product type, etc.
 The data used for these models is included in the repository, along with Jupyter notebooks that walk through the data preprocessing, feature engineering, model training, and evaluation steps. Additionally, a Streamlit app is provided that allows users to input feature values and get a predicted selling price or lead status.
